@@ -6,3 +6,4 @@ elif n < 0:
     print("Negative")
 else:
     print("n is 0")
+    
